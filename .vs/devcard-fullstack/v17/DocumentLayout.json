@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tajamar\\devcard-fullstack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\src\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\src\\seed\\devcard.seed.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\seed\\devcard.seed.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\src\\Models\\Devcard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Models\\Devcard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\src\\routes\\devcard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\devcard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\src\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\EducationCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\components\\EducationCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\services\\devcard.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\services\\devcard.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\PersonalInfoCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\components\\PersonalInfoCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\src\\scripts\\migrateImages.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\scripts\\migrateImages.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\types\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\types\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\ProjectCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\components\\ProjectCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\IntroCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\components\\IntroCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillFrontCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\components\\SkillFrontCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillToolCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\components\\SkillToolCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillCloudCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\components\\SkillCloudCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillBackCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevCard\\src\\components\\SkillBackCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\devcard-fullstack\\src\\Notas.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Notas.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "devcard.seed.ts",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\src\\seed\\devcard.seed.ts",
+              "RelativeDocumentMoniker": "src\\seed\\devcard.seed.ts",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\src\\seed\\devcard.seed.ts",
+              "RelativeToolTip": "src\\seed\\devcard.seed.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T10:58:23.529Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Devcard.ts",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\src\\Models\\Devcard.ts",
+              "RelativeDocumentMoniker": "src\\Models\\Devcard.ts",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\src\\Models\\Devcard.ts",
+              "RelativeToolTip": "src\\Models\\Devcard.ts",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwMEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T10:11:37.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\src\\app.ts",
+              "RelativeDocumentMoniker": "src\\app.ts",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\src\\app.ts",
+              "RelativeToolTip": "src\\app.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T11:23:40.595Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "api.ts",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\src\\api.ts",
+              "RelativeDocumentMoniker": "src\\api.ts",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\src\\api.ts",
+              "RelativeToolTip": "src\\api.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T11:18:59.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "devcard.ts",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\src\\routes\\devcard.ts",
+              "RelativeDocumentMoniker": "src\\routes\\devcard.ts",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\src\\routes\\devcard.ts",
+              "RelativeToolTip": "src\\routes\\devcard.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T11:27:28.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-30T22:07:45.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-30T22:12:21.954Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-30T22:36:04.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectCard.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\ProjectCard.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\components\\ProjectCard.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\ProjectCard.tsx",
+              "RelativeToolTip": "DevCard\\src\\components\\ProjectCard.tsx",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T11:57:53.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EducationCard.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\EducationCard.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\components\\EducationCard.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\EducationCard.tsx",
+              "RelativeToolTip": "DevCard\\src\\components\\EducationCard.tsx",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T12:21:17.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:618693198:0:{13143d73-808b-4a2f-bebb-ccbe9c93fe37}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-30T13:24:05.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "devcard.service.ts",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\services\\devcard.service.ts",
+              "RelativeDocumentMoniker": "DevCard\\src\\services\\devcard.service.ts",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\services\\devcard.service.ts",
+              "RelativeToolTip": "DevCard\\src\\services\\devcard.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T13:22:31.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "DevCard\\tsconfig.app.json",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\tsconfig.app.json",
+              "RelativeToolTip": "DevCard\\tsconfig.app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-30T09:54:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\index.css",
+              "RelativeDocumentMoniker": "DevCard\\src\\index.css",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\index.css",
+              "RelativeToolTip": "DevCard\\src\\index.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-28T11:49:29.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IntroCard.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\IntroCard.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\components\\IntroCard.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\IntroCard.tsx",
+              "RelativeToolTip": "DevCard\\src\\components\\IntroCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T12:19:55.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonalInfoCard.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\PersonalInfoCard.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\components\\PersonalInfoCard.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\PersonalInfoCard.tsx",
+              "RelativeToolTip": "DevCard\\src\\components\\PersonalInfoCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T12:20:29.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SkillFrontCard.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillFrontCard.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\components\\SkillFrontCard.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillFrontCard.tsx",
+              "RelativeToolTip": "DevCard\\src\\components\\SkillFrontCard.tsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T09:44:05.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Notas.txt",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\src\\Notas.txt",
+              "RelativeDocumentMoniker": "src\\Notas.txt",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\src\\Notas.txt",
+              "RelativeToolTip": "src\\Notas.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-28T07:57:55.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "migrateImages.ts",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\src\\scripts\\migrateImages.ts",
+              "RelativeDocumentMoniker": "src\\scripts\\migrateImages.ts",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\src\\scripts\\migrateImages.ts",
+              "RelativeToolTip": "src\\scripts\\migrateImages.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T07:49:16.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\App.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\App.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\App.tsx",
+              "RelativeToolTip": "DevCard\\src\\App.tsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAD7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T11:45:44.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SkillToolCard.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillToolCard.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\components\\SkillToolCard.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillToolCard.tsx",
+              "RelativeToolTip": "DevCard\\src\\components\\SkillToolCard.tsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T10:54:55.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SkillCloudCard.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillCloudCard.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\components\\SkillCloudCard.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillCloudCard.tsx",
+              "RelativeToolTip": "DevCard\\src\\components\\SkillCloudCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T10:54:43.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "types.ts",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\types\\types.ts",
+              "RelativeDocumentMoniker": "DevCard\\src\\types\\types.ts",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\types\\types.ts",
+              "RelativeToolTip": "DevCard\\src\\types\\types.ts",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T07:26:04.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SkillBackCard.tsx",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillBackCard.tsx",
+              "RelativeDocumentMoniker": "DevCard\\src\\components\\SkillBackCard.tsx",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\DevCard\\src\\components\\SkillBackCard.tsx",
+              "RelativeToolTip": "DevCard\\src\\components\\SkillBackCard.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-28T07:24:25.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Tajamar\\devcard-fullstack\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Tajamar\\devcard-fullstack\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T10:09:20.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+
+
+body {
+    
+    min-height: 100vh;
+    background: linear-gradient(135deg, #84d0ed, #35648f, #33516c);
+    background-attachment: fixed; 
+    font-family: Arial, sans-serif; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+
+.Project-Style {
+    background-color: #35648f;
+    border: 2px solid #213547;
+    margin-left: 12px;
+    margin-top: 10px;
+    width: 90%;
+}
+
+    .Project-Style:hover {
+        background-color: #3b75aa;
+        border: 2px solid #7db5cb;
+    }
+
+
+.Button-Style {
+    background-color: #35648f;
+    border: 2px solid #213547;
+    margin-left: 12px;
+    margin-top: 10px;
+    width: 150px;
+}
+
+    .Button-Style:hover {
+        background-color: #3b75aa;
+        border: 2px solid #7db5cb;
+    }
+
+
+
+.container {
+    margin-top: 20px;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+}
+
+
+.Intro-Style img:hover {
+    filter: drop-shadow(0 0 5px #84d0ed) drop-shadow(0 0 2px #84d0ed);
+}
+
+.Intro-Style a {
+    text-decoration:none;
+    color:aliceblue;
+}
+
+.Intro-Style a:hover {
+    filter: drop-shadow(0 0 5px #84d0ed) drop-shadow(0 0 2px #84d0ed);
+}
+
+
+
+
+.custom-card {
+    background-color: transparent;
+    border: 2px solid #213547;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+    color: #213547;
+    margin-bottom: 20px;
+}
+
+
+
+.myModal {
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+.myModalDialog {
+   
+    border-radius: 12px;
+    
+}
+
+.myModalContent {
+    background: linear-gradient(135deg, #84d0ed, #35648f, #33516c);
+    color: #fff;
+    border-radius: 16px;
+    border: 2px solid #213547;
+    padding: 20px;
+}
+
+.myModalHeader {
+    border-bottom: 1px solid #444;
+    display: flex !important;
+    justify-content: center !important;
+    width: 100%;
+}
+
+    /* Esto centra el título h4 específicamente */
+    .myModalHeader .modal-title {
+        margin: 0 auto;
+    }
+
+
+
+
+.myModalBody {
+    font-size: 1rem;
+    text-align: center; /* Centra textos básicos */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra elementos flex */
+}
+
+
+.myModalFooter {
+    border-top: 1px solid #444;
+}
+
+.myModalBackdrop {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+
+
+
+
+
+
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

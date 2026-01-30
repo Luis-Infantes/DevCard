@@ -1,0 +1,5 @@
+
+
+
+Actualizar el seed: npx ts-node src/seed/devcard.seed.ts
+Migraciones: npx ts-node src/scripts/migrateImages.ts
