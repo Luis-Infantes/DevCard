@@ -1,0 +1,13 @@
+# Variables de entorno (¡Súper importante!)
+.env
+
+# Dependencias
+node_modules/
+
+# Carpeta de compilación de TypeScript
+dist/
+build/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
