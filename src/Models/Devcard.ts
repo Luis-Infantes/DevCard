@@ -10,6 +10,7 @@ export interface Intro {
     description: string;
     image: string;
     azureCertification: string;
+    awsCertification: string;
     avatarimg: string;
     email: string;
     linkedin: string;
@@ -112,6 +113,7 @@ const devcardSchema = new Schema<IDevcard>(
             description: { type: String, required: true },
             image: { type: String, required: true },
             azureCertification: { type: String, required: true },
+            awsCertification: { type: String, required: true },
         },
 
 

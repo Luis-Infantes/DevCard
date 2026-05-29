@@ -3,3 +3,10 @@
 
 Actualizar el seed: npx ts-node src/seed/devcard.seed.ts
 Migraciones: npx ts-node src/scripts/migrateImages.ts
+
+
+Ejecutar el back en una consola de node:
+
+cd + dirección de donde estan los arhivos
+
+comando en consola:  npm run dev
